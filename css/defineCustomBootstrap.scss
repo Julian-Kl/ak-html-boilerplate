@@ -1,0 +1,12 @@
+$theme-colors: (
+  "cDarkGreen": #0F8A5F,
+  "cLightGreen": #34A65F,
+  "cDarkRed": #CC231E,
+  "cLightRed": #F5624D,
+  "cDarkBlue": #14353E,
+  "cLightBlue": #235E6F,
+  "cDarkBrown": #6F3A23,
+  "cLightBrown": #AB5936
+);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
